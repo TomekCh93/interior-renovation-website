@@ -8,7 +8,7 @@ This project presents the company's services, portfolio, and contact details in 
 
 ## 🌐 Live Demo
 
-➡️ [View Website]([https://your-firebase-site.web.app](https://interiornova.pl/))
+➡️ [View Website](https://interiornova.pl/)
 
 ---
 
